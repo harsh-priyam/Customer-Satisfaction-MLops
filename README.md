@@ -1,1 +1,2 @@
-# Customer-Satisfaction-MLops
+#For Running the ZenML application
+zenml up --blocking 
